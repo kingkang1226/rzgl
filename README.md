@@ -1,4 +1,4 @@
-# rzgl2222
+# rzgl
 
 > A Vue.js project
 
